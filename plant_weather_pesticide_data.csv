@@ -1,0 +1,41 @@
+plant,temperature,humidity,pesticide_suggestion,pesticide_name
+Rice,30,85,use more pesticides,Carbendazim
+Rice,28,80,use mild pesticides,Chlorothalonil
+Rice,25,70,do not use pesticides,no suggestion
+Rice,22,65,use pesticides carefully,Mancozeb
+Wheat,20,60,use pesticides carefully,Mancozeb
+Wheat,18,55,use mild pesticides,Chlorothalonil
+Wheat,15,50,do not use pesticides,no suggestion
+Wheat,12,45,use pesticides carefully,Mancozeb
+Tomato,25,70,use more pesticides,Difenoconazole
+Tomato,22,65,use mild pesticides,Chlorothalonil
+Tomato,18,60,do not use pesticides,no suggestion
+Tomato,15,55,use pesticides carefully,Mancozeb
+Potato,20,75,use more pesticides,Chlorothalonil
+Potato,18,70,use mild pesticides,Mancozeb
+Potato,15,65,do not use pesticides,no suggestion
+Potato,12,60,use pesticides carefully,Mancozeb
+Corn,30,75,use more pesticides,Carbendazim
+Corn,28,70,use mild pesticides,Chlorothalonil
+Corn,25,65,do not use pesticides,no suggestion
+Corn,22,60,use pesticides carefully,Mancozeb
+Soybean,27,80,use more pesticides,Carbendazim
+Soybean,25,75,use mild pesticides,Chlorothalonil
+Soybean,22,70,do not use pesticides,no suggestion
+Soybean,20,65,use pesticides carefully,Mancozeb
+Cotton,35,60,use more pesticides,Difenoconazole
+Cotton,32,55,use mild pesticides,Chlorothalonil
+Cotton,30,50,do not use pesticides,no suggestion
+Cotton,28,45,use pesticides carefully,Mancozeb
+Tea,20,85,use more pesticides,Chlorothalonil
+Tea,18,80,use mild pesticides,Chlorothalonil
+Tea,15,75,do not use pesticides,no suggestion
+Tea,12,70,use pesticides carefully,Mancozeb
+Coffee,25,80,use more pesticides,Carbendazim
+Coffee,22,75,use mild pesticides,Chlorothalonil
+Coffee,20,70,do not use pesticides,no suggestion
+Coffee,18,65,use pesticides carefully,Mancozeb
+Sugarcane,35,80,use more pesticides,Carbendazim
+Sugarcane,32,75,use mild pesticides,Chlorothalonil
+Sugarcane,30,70,do not use pesticides,no suggestion
+Sugarcane,28,65,use pesticides carefully,Mancozeb

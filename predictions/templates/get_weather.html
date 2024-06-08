@@ -1,0 +1,15 @@
+<!-- get_weather.html -->
+<!-- weather data fetching form -->
+<html>
+<head>
+    <title>Get Weather</title>
+</head>
+<body>
+    <h1>Get Weather</h1>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
